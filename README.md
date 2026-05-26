@@ -1,16 +1,58 @@
-## Hi there 👋
+<!-- Thet Paing Soe — GitHub README -->
 
-<!--
-**thetpaing-jk/thetpaing-jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hey, I'm Thet Paing Soe 👋</h1>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/badge/Available%20for%20hire-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Myanmar%20%C2%B7%20Remote--ready-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20years-lightgrey?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Senior Flutter & Kotlin Developer** building production-grade, cross-platform mobile apps for real businesses — ERP, HR, distribution, membership & more.
+
+---
+
+## 👨‍💻 About me
+
+I specialise in turning complex business requirements into clean, fast, cross-platform mobile apps. I've shipped **5+ production apps** used by real teams daily — from van sales field teams to HR departments and cosmetic membership platforms. Currently expanding into **native Android development with Kotlin** alongside my Flutter expertise.
+
+---
+
+## 🛠 Tech stack
+
+```
+Core      →  Flutter · Dart · Kotlin
+State         →  Provider · BLoC · Riverpod
+Integration   →  Odoo ERP · Firebase · REST API · Socket IO . Cloud Flare
+Language      →  Python · Java J2EE · REST API · Socket IO
+Database      →  SQLite · MySQL · MongoDB . Supbase
+Services      →  Google Maps · OneSignal · OAuth · Payment Gateway
+Tools         →  GitHub CI/CD · Postman · Figma · Travis CI . Proxy Man . k6
+```
+
+---
+
+## 📊 By the numbers
+
+| 5+ Apps shipped | 3+ Years exp | 2 Devs mentored | 6-person team |
+|:---:|:---:|:---:|:---:|
+
+---
+
+## 🚀 Currently
+
+- 🔨 **Building** — production Flutter apps with Odoo ERP integrations for business clients
+- 📱 **Learning** — Kotlin for native Android development alongside Flutter
+- 🌍 **Open to** — remote Flutter / Kotlin roles, especially with international teams (Europe / SEA)
+
+---
+
+## 📬 Find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-ThetPaing--jk-181717?style=flat-square&logo=github)](https://github.com/thetpaing-jk)
+[![Email](https://img.shields.io/badge/Email-thetpaing010902@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:thetpaing010902@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0C10?style=flat-square)](https://yourportfolio.com)
+
+---
+
+*Available for remote Flutter / Kotlin opportunities worldwide. Let's build something practical together.*
