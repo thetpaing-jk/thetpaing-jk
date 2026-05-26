@@ -34,7 +34,7 @@ Tools         →  GitHub CI/CD · Postman · Figma · Travis CI . Proxy Man . k
 
 ## 📊 By the numbers
 
-| 5+ Apps shipped | 3+ Years exp | 2 Devs mentored | 6-person team |
+| 5+ Apps shipped | 4+ Years exp | 2 Devs mentored | 6-person team |
 |:---:|:---:|:---:|:---:|
 
 ---
