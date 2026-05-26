@@ -1,6 +1,6 @@
 <!-- Thet Paing Soe — GitHub README -->
 
-<h1>Hey, I'm Thet Paing Soe 👋</h1>
+<h1>Hi Mate, I'm Thet Paing Soe 👋</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Available%20for%20hire-brightgreen?style=flat-square" />
