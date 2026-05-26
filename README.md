@@ -21,7 +21,7 @@ I specialise in turning complex business requirements into clean, fast, cross-pl
 ## 🛠 Tech stack
 
 ```
-Core      →  Flutter · Dart · Kotlin
+Core          →  Flutter · Dart · Kotlin
 State         →  Provider · BLoC · Riverpod
 Integration   →  Odoo ERP · Firebase · REST API · Socket IO . Cloud Flare
 Language      →  Python · Java J2EE · REST API · Socket IO
