@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/Available%20for%20hire-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Myanmar%20%C2%B7%20Remote--ready-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20years-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-lightgrey?style=flat-square" />
 </p>
 
 **Senior Flutter & Kotlin Developer** building production-grade, cross-platform mobile apps for real businesses — ERP, HR, distribution, membership & more.
