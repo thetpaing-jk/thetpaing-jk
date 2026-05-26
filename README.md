@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About me
 
-I specialise in turning complex business requirements into clean, fast, cross-platform mobile apps. I've shipped **5+ production apps** used by real teams daily — from van sales field teams to HR departments and cosmetic membership platforms. Currently expanding into **native Android development with Kotlin** alongside my Flutter expertise.
+I specialise in turning complex business requirements into clean, fast, cross-platform mobile apps. I've shipped **5+ production apps** used by real teams daily from van sales field teams to HR departments, membership platforms and m-commerce platforms. Currently expanding into **native Android development with Kotlin** alongside my Flutter expertise.
 
 ---
 
