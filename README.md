@@ -51,7 +51,7 @@ Tools         →  GitHub CI/CD · Postman · Figma · Travis CI . Proxy Man . k
 
 [![GitHub](https://img.shields.io/badge/GitHub-ThetPaing--jk-181717?style=flat-square&logo=github)](https://github.com/thetpaing-jk)
 [![Email](https://img.shields.io/badge/Email-thetpaing010902@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:thetpaing010902@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0C10?style=flat-square)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0C10?style=flat-square)](https://thetpaingsoe.dev/)
 
 ---
 
