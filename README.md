@@ -24,8 +24,8 @@ I specialise in turning complex business requirements into clean, fast, cross-pl
 Core          →  Flutter · Dart · Kotlin
 State         →  Provider · BLoC · Riverpod
 Integration   →  Odoo ERP · Firebase · REST API · Socket IO . Cloud Flare
-Language      →  Python · Java J2EE · REST API · Socket IO
-Database      →  SQLite · MySQL · MongoDB . Supbase
+Language      →  Python · Java J2EE · JavaScript · HTML · CSS · PHP
+Database      →  SQLite · MySQL · MongoDB . Supabase
 Services      →  Google Maps · OneSignal · OAuth · Payment Gateway
 Tools         →  GitHub CI/CD · Postman · Figma · Travis CI . Proxy Man . k6
 ```
